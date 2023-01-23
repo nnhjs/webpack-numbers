@@ -1,5 +1,5 @@
 {
-  "name": "webpack-numbers",
+  "name": "nnhjs-webpack-numbers",
   "version": "0.0.0",
   "description": "",
   "module": "src/index.js",
